@@ -267,11 +267,12 @@ Se muestran los diferentes medios de contacto y enlaces a redes profesionales.
 
 ---
 
-# Autor
+# Autora
 
 **Hayley Cortés**
 
 Ingeniería en Sistemas Computacionales
 Instituto Tecnológico de Oaxaca
 
-GitHub: https://github.com/BriCortesTec
+# GitPage 
+https://bricortestec.github.io/Actividad4-PW/  
